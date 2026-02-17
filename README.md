@@ -68,4 +68,4 @@ If you find this tool helpful, give it a ⭐ on GitHub!
 اگر این ابزار برایتان مفید بود، با دادن یک ستاره ⭐ در گیت‌هاب از ما حمایت کنید!
 
 ---
-Developed with ❤️ by **[Your Name]**
+Developed with ❤️ by **[HoseinSedaqat + Gemini]**
