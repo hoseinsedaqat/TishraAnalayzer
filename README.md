@@ -39,7 +39,7 @@
 ## 📸 Screenshots / تصاویر
 | Dashboard | Analysis Logic |
 |---|---|
-| ![Preview](https://via.placeholder.com/300x500?text=Tishra+UI) | ![Score](https://via.placeholder.com/300x500?text=Health+Score) |
+| ![Preview](https://github.com/user-attachments/assets/195e08fb-c6e9-4273-aaed-3ecd2649aee0) | ![Score](https://github.com/user-attachments/assets/de3bdb88-58b1-4c02-b73f-acb958ca2779) |
 
 ---
 
