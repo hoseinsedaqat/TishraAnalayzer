@@ -24,5 +24,8 @@
       "id": "77hosein88@gmail.com",
       "strict_min_version": "109.0"
     }
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
   }
 }
