@@ -64,8 +64,6 @@
 ---
 
 ## 🌟 Support / حمایت
-If you find this tool helpful, give it a ⭐ on GitHub!
-اگر این ابزار برایتان مفید بود، با دادن یک ستاره ⭐ در گیت‌هاب از ما حمایت کنید!
-
+If you find this tool helpful, give it a ⭐ on GitHub! 
 ---
 Developed with ❤️ by **[HoseinSedaqat + Gemini]**
